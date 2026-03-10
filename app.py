@@ -235,11 +235,11 @@ def render_results(report: Dict):
         </div>
         """, unsafe_allow_html=True)
 
-    # All recommendations
-    if len(report["recommendations"]) > 1:
-        st.markdown("#### 📋 All Recommendations")
+    # All recommendations (top 5 shown)
+    if len(report["recommendations"]) > 0:
+        st.markdown("#### 📋 Top 5 Investment Recommendations")
 
-        for rec in report["recommendations"]:
+        for rec in report["recommendations"][:5]:
             # compute width percentage for score bar
             pct = (rec['investment_score'] / 5.0) * 100
             st.markdown(f"""
