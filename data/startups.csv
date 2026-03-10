@@ -1,0 +1,23 @@
+name,sector,country,funding_million,employees,growth_score,founded
+Mistral AI,AI,France,500,60,95,2023
+HuggingFace,AI,France,400,200,92,2016
+Synthesia,AI,UK,180,120,90,2017
+Stability AI,AI,UK,150,80,85,2020
+DeepL,AI,Germany,300,400,88,2017
+Aleph Alpha,AI,Germany,120,100,82,2019
+Graphcore,AI,UK,700,500,89,2016
+Musixmatch,AI,Italy,150,200,87,2010
+Reply,AI,Italy,80,150,83,2012
+Snyk,Security,UK,850,1000,91,2015
+UiPath,Automation,Romania,2000,4000,94,2005
+Wise,Fintech,UK,1200,3000,93,2011
+Stripe,Fintech,USA,450,1500,92,2010
+Revolut,Fintech,UK,850,2000,88,2015
+Klarna,Fintech,Sweden,700,2500,90,2005
+Canva,Design,Australia,200,700,89,2013
+Figma,Design,USA,600,1000,91,2012
+Notion,Productivity,USA,300,200,87,2016
+Linear,Productivity,USA,60,35,85,2021
+Discord,Communication,USA,150,800,86,2015
+Spacex,Hardware,USA,5000,9500,96,2002
+Personio,HR,Germany,300,500,84,2015
